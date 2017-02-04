@@ -1,0 +1,1 @@
+﻿Есть текстовый файл. Необходимо удалить из него все слова, длина которых превыщает N символов. Значение N задавать через форму. Проверить работу на кириллических строках - найти ошибку, найти решение, working funny lately and due the nightmare manipulating between mysql and I got the database column set to utf8, then store with html enity 
